@@ -1,0 +1,253 @@
+{
+  "jobs" : [ 
+    {
+    "job_id": "101",
+    "job_title": "Software Engineer",
+    "pipeline": [
+        {
+            "id": "201",
+            "progress_code": "0",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "New Candidate",
+            "progress_desc": "New Candidate",
+            "progress_color_code": "#2db7f5",
+            "indeed_disposition_status": "NEW"
+        },
+        {
+            "id": "202",
+            "progress_code": "9",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Internal Shortlisted",
+            "progress_desc": "Internal Shortlisted",
+            "progress_color_code": "#87d068",
+            "indeed_disposition_status": "LIKED"
+        },
+        {
+            "id": "203",
+            "progress_code": "15",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Interview",
+            "progress_desc": "Interview",
+            "progress_color_code": "#d0021b",
+            "indeed_disposition_status": "INTERVIEW"
+        },
+        {
+            "id": "204",
+            "progress_code": "15001",
+            "parent_progress_id": "15",
+            "parent_progress_code": "15",
+            "progress_label": "1st Interview",
+            "progress_desc": "1st Interview",
+            "progress_color_code": "#d0021b",
+            "indeed_disposition_status": null
+        },
+        {
+            "id": "205",
+            "progress_code": "15002",
+            "parent_progress_id": "15",
+            "parent_progress_code": "15",
+            "progress_label": "2nd Interview",
+            "progress_desc": "2nd Interview",
+            "progress_color_code": "#d0021b",
+            "indeed_disposition_status": null
+        },
+        {
+            "id": "206",
+            "progress_code": "15003",
+            "parent_progress_id": "15",
+            "parent_progress_code": "15",
+            "progress_label": "3rd Interview",
+            "progress_desc": "3rd Interview",
+            "progress_color_code": "#d0021b",
+            "indeed_disposition_status": null
+        },
+        {
+            "id": "207",
+            "progress_code": "60",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Job Offered",
+            "progress_desc": "Job Offered",
+            "progress_color_code": "#488af9",
+            "indeed_disposition_status": "OFFER_MADE"
+        },
+        {
+            "id": "208",
+            "progress_code": "13",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Assessment",
+            "progress_desc": "Assessment",
+            "progress_color_code": "#7ed321",
+            "indeed_disposition_status": "ASSESS_QUALIFICATIONS"
+        },
+        {
+            "id": "209",
+            "progress_code": "62",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Offer Accepted",
+            "progress_desc": "Offer Accepted",
+            "progress_color_code": "#1ac4a5cc",
+            "indeed_disposition_status": "UNABLE_TO_MAP"
+        },
+        {
+            "id": "210",
+            "progress_code": "999",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Joined",
+            "progress_desc": "Joined",
+            "progress_color_code": "#357a38",
+            "indeed_disposition_status": "HIRED"
+        },
+        {
+            "id": "211",
+            "progress_code": "-99",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Rejected",
+            "progress_desc": "Rejected",
+            "progress_color_code": "#f50",
+            "indeed_disposition_status": "NOT_SELECTED"
+        }
+           ]
+   },
+   {
+    "job_id": "102",
+    "job_title": "Data Analyst",
+    "pipeline": [
+        {
+            "id": "301",
+            "progress_code": "0",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Application Received",
+            "progress_desc": "Application Received",
+            "progress_color_code": "#2db7f5",
+            "indeed_disposition_status": "NEW"
+        },
+        {
+            "id": "302",
+            "progress_code": "5",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Resume Shortlisted",
+            "progress_desc": "Resume Shortlisted",
+            "progress_color_code": "#ff9900",
+            "indeed_disposition_status": "REVIEWED"
+        },
+        {
+            "id": "303",
+            "progress_code": "10",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Technical Interview",
+            "progress_desc": "Technical Interview",
+            "progress_color_code": "#d0021b",
+            "indeed_disposition_status": "INTERVIEW"
+        },
+        {
+            "id": "304",
+            "progress_code": "20",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Final Interview",
+            "progress_desc": "Final Interview",
+            "progress_color_code": "#ffcc00",
+            "indeed_disposition_status": "FINAL_INTERVIEW"
+        },
+        {
+            "id": "305",
+            "progress_code": "30",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Offer Sent",
+            "progress_desc": "Offer Sent",
+            "progress_color_code": "#1ac4a5",
+            "indeed_disposition_status": "OFFER_MADE"
+        },
+        {
+            "id": "306",
+            "progress_code": "999",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Hired",
+            "progress_desc": "Hired",
+            "progress_color_code": "#357a38",
+            "indeed_disposition_status": "HIRED"
+        }
+    ]
+},
+{
+    "job_id": "103",
+    "job_title": "Product Manager",
+    "pipeline": [
+        {
+            "id": "401",
+            "progress_code": "0",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Screening",
+            "progress_desc": "Initial Screening",
+            "progress_color_code": "#2db7f5",
+            "indeed_disposition_status": "NEW"
+        },
+        {
+            "id": "402",
+            "progress_code": "7",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "HR Interview",
+            "progress_desc": "HR Interview",
+            "progress_color_code": "#87d068",
+            "indeed_disposition_status": "HR_INTERVIEW"
+        },
+        {
+            "id": "403",
+            "progress_code": "14",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Panel Interview",
+            "progress_desc": "Panel Interview",
+            "progress_color_code": "#d0021b",
+            "indeed_disposition_status": "PANEL_INTERVIEW"
+        },
+        {
+            "id": "404",
+            "progress_code": "18",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Final Approval",
+            "progress_desc": "Final Approval",
+            "progress_color_code": "#488af9",
+            "indeed_disposition_status": "FINAL_APPROVAL"
+        },
+        {
+            "id": "405",
+            "progress_code": "62",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Offer Accepted",
+            "progress_desc": "Offer Accepted",
+            "progress_color_code": "#1ac4a5cc",
+            "indeed_disposition_status": "OFFER_ACCEPTED"
+        },
+        {
+            "id": "406",
+            "progress_code": "999",
+            "parent_progress_id": null,
+            "parent_progress_code": null,
+            "progress_label": "Joined",
+            "progress_desc": "Joined",
+            "progress_color_code": "#357a38",
+            "indeed_disposition_status": "HIRED"
+        }
+    ]
+}
+
+]
+}
