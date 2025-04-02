@@ -12,6 +12,7 @@
             "progress_label": "New Candidate",
             "progress_desc": "New Candidate",
             "progress_color_code": "#2db7f5",
+            "restricted": false ,
             "indeed_disposition_status": "NEW"
         },
         {
@@ -22,6 +23,7 @@
             "progress_label": "Internal Shortlisted",
             "progress_desc": "Internal Shortlisted",
             "progress_color_code": "#87d068",
+            "restricted": false ,
             "indeed_disposition_status": "LIKED"
         },
         {
@@ -32,6 +34,7 @@
             "progress_label": "Interview",
             "progress_desc": "Interview",
             "progress_color_code": "#d0021b",
+            "restricted": false ,
             "indeed_disposition_status": "INTERVIEW"
         },
         {
@@ -42,6 +45,7 @@
             "progress_label": "1st Interview",
             "progress_desc": "1st Interview",
             "progress_color_code": "#d0021b",
+            "restricted": false ,
             "indeed_disposition_status": null
         },
         {
@@ -52,6 +56,7 @@
             "progress_label": "2nd Interview",
             "progress_desc": "2nd Interview",
             "progress_color_code": "#d0021b",
+            "restricted": false ,
             "indeed_disposition_status": null
         },
         {
@@ -62,6 +67,7 @@
             "progress_label": "3rd Interview",
             "progress_desc": "3rd Interview",
             "progress_color_code": "#d0021b",
+            "restricted": false ,
             "indeed_disposition_status": null
         },
         {
@@ -72,6 +78,7 @@
             "progress_label": "Job Offered",
             "progress_desc": "Job Offered",
             "progress_color_code": "#488af9",
+            "restricted": false ,
             "indeed_disposition_status": "OFFER_MADE"
         },
         {
@@ -82,6 +89,7 @@
             "progress_label": "Assessment",
             "progress_desc": "Assessment",
             "progress_color_code": "#7ed321",
+            "restricted": false ,
             "indeed_disposition_status": "ASSESS_QUALIFICATIONS"
         },
         {
@@ -92,6 +100,7 @@
             "progress_label": "Offer Accepted",
             "progress_desc": "Offer Accepted",
             "progress_color_code": "#1ac4a5cc",
+            "restricted": false ,
             "indeed_disposition_status": "UNABLE_TO_MAP"
         },
         {
@@ -102,6 +111,7 @@
             "progress_label": "Joined",
             "progress_desc": "Joined",
             "progress_color_code": "#357a38",
+            "restricted": false ,
             "indeed_disposition_status": "HIRED"
         },
         {
@@ -112,6 +122,7 @@
             "progress_label": "Rejected",
             "progress_desc": "Rejected",
             "progress_color_code": "#f50",
+            "restricted": false ,
             "indeed_disposition_status": "NOT_SELECTED"
         }
            ]
@@ -128,6 +139,7 @@
             "progress_label": "Application Received",
             "progress_desc": "Application Received",
             "progress_color_code": "#2db7f5",
+            "restricted": false ,
             "indeed_disposition_status": "NEW"
         },
         {
@@ -138,6 +150,7 @@
             "progress_label": "Resume Shortlisted",
             "progress_desc": "Resume Shortlisted",
             "progress_color_code": "#ff9900",
+            "restricted": false ,
             "indeed_disposition_status": "REVIEWED"
         },
         {
@@ -148,6 +161,7 @@
             "progress_label": "Technical Interview",
             "progress_desc": "Technical Interview",
             "progress_color_code": "#d0021b",
+            "restricted": false ,
             "indeed_disposition_status": "INTERVIEW"
         },
         {
@@ -158,6 +172,7 @@
             "progress_label": "Final Interview",
             "progress_desc": "Final Interview",
             "progress_color_code": "#ffcc00",
+            "restricted": false ,
             "indeed_disposition_status": "FINAL_INTERVIEW"
         },
         {
@@ -168,6 +183,7 @@
             "progress_label": "Offer Sent",
             "progress_desc": "Offer Sent",
             "progress_color_code": "#1ac4a5",
+            "restricted": false ,
             "indeed_disposition_status": "OFFER_MADE"
         },
         {
@@ -178,6 +194,7 @@
             "progress_label": "Hired",
             "progress_desc": "Hired",
             "progress_color_code": "#357a38",
+            "restricted": false ,
             "indeed_disposition_status": "HIRED"
         }
     ]
@@ -194,6 +211,7 @@
             "progress_label": "Screening",
             "progress_desc": "Initial Screening",
             "progress_color_code": "#2db7f5",
+            "restricted": false ,
             "indeed_disposition_status": "NEW"
         },
         {
@@ -204,6 +222,7 @@
             "progress_label": "HR Interview",
             "progress_desc": "HR Interview",
             "progress_color_code": "#87d068",
+            "restricted": false ,
             "indeed_disposition_status": "HR_INTERVIEW"
         },
         {
@@ -214,6 +233,7 @@
             "progress_label": "Panel Interview",
             "progress_desc": "Panel Interview",
             "progress_color_code": "#d0021b",
+            "restricted": false ,
             "indeed_disposition_status": "PANEL_INTERVIEW"
         },
         {
@@ -224,6 +244,7 @@
             "progress_label": "Final Approval",
             "progress_desc": "Final Approval",
             "progress_color_code": "#488af9",
+            "restricted": false ,
             "indeed_disposition_status": "FINAL_APPROVAL"
         },
         {
@@ -234,6 +255,7 @@
             "progress_label": "Offer Accepted",
             "progress_desc": "Offer Accepted",
             "progress_color_code": "#1ac4a5cc",
+            "restricted": false ,
             "indeed_disposition_status": "OFFER_ACCEPTED"
         },
         {
@@ -244,6 +266,7 @@
             "progress_label": "Joined",
             "progress_desc": "Joined",
             "progress_color_code": "#357a38",
+            "restricted": true ,
             "indeed_disposition_status": "HIRED"
         }
     ]
