@@ -122,7 +122,7 @@
             "progress_label": "Rejected",
             "progress_desc": "Rejected",
             "progress_color_code": "#f50",
-            "restricted": false ,
+            "restricted": true ,
             "indeed_disposition_status": "NOT_SELECTED"
         }
            ]
@@ -194,7 +194,7 @@
             "progress_label": "Hired",
             "progress_desc": "Hired",
             "progress_color_code": "#357a38",
-            "restricted": false ,
+            "restricted": true ,
             "indeed_disposition_status": "HIRED"
         }
     ]
